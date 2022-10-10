@@ -49,6 +49,10 @@ Screenshot of Kendal's Transaction
 
 <img src="https://github.com/Virginia440/Mod19_challenge/blob/main/Screenshots/Transaction_Kendal.PNG" width=500 height=300>
 
+<img src="https://github.com/Virginia440/Mod19_challenge/blob/main/Screenshots/Streamlit%20deployment%20Transaction.PNG" width=500 height=300>
+
+<img src="https://github.com/Virginia440/Mod19_challenge/blob/main/Screenshots/Image.PNG" width=500 height=300>
+
 
 ---
 
