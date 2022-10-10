@@ -44,7 +44,7 @@ Assuming the role of a Fintech Finder’s lead developer, you have been tasked w
 
 Screenshot of added blocks
 
-<img src="https://github.com/Virginia440/Mod19_challenge/blob/main/Screenshots/Transaction_Kendal.PNG" width=500 height=300>
+<img src="" width=500 height=300>
 
 Screenshot of Validate button
 
